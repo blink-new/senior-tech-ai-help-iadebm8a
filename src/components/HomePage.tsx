@@ -55,7 +55,7 @@ const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             <div className="animate-slide-up lg:order-last">
               <div className="relative">
                 <img
-                  src="https://firebasestorage.googleapis.com/v0/b/blink-451505.firebasestorage.app/o/user-uploads%2F4uMNwpKgiCdupLVwbbI6MWcB43%2Fseniortechhero__33e0bffe.png?alt=media&token=2e8b476b-f3fb-40e3-975f-dd94e6442c53"
+                  src="/seniortechhero.png"
                   alt="Seniors and a younger person learning technology together"
                   className="rounded-2xl shadow-2xl w-full h-auto"
                   loading="eager"
